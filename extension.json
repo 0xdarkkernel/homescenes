@@ -1,0 +1,22 @@
+{
+  "apiVersion": 3,
+  "id": "com.ibuhs.vehla.home-scenes",
+  "name": "Home Scenes",
+  "version": "1.0.0",
+  "description": "Run Home scenes and accessory shortcuts from the Dock. Scenes come from the Shortcuts folders you use for your home.",
+  "author": "0xdarkkernel",
+  "runtime": "dockWidget",
+  "entrypoint": "bin/HomeScenesDockWidget.bundle",
+  "capabilities": ["persistentStorage"],
+  "dockWidgets": [
+    {
+      "id": "home-scenes",
+      "title": "Home",
+      "subtitle": "Scenes and accessory shortcuts",
+      "systemImage": "house.fill",
+      "preferredPopupWidth": 560,
+      "preferredPopupHeight": 700,
+      "supportedSurfaces": ["compact", "inline", "popup"]
+    }
+  ]
+}

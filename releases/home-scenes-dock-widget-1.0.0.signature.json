@@ -1,0 +1,11 @@
+{
+  "publicKeyFingerprintSHA256" : "4ad1b80d1b40de4438bfb604728a8040eacb86632b7128693d8f6b767ab8cdd7",
+  "publisher" : {
+    "id" : "com.0xdarkkernel.publisher",
+    "keyID" : "release-2026-09",
+    "name" : "0xdarkkernel",
+    "publicKey" : "PXFv8wNTyjdThFfGtILeAaY\/xTKo6noi2obbf8QtKAI="
+  },
+  "sha256" : "5744f8eae073a9f442c70181bd7cf7481a07505c530c475db12702ca75471849",
+  "signature" : "Ar9PQDBXWYpALVrgqDLOXiLzwwgFt9otvHR1O7\/\/WlNVkp8OJFAvy4KqY2quvODV6aD9MIIwr9b0QI+WNsWDCg=="
+}
